@@ -1,4 +1,4 @@
-# promeet
+# promeet dev log
 
 v0.0
 - 기본적인 로직 구현완료, 추가적으로 메인로직 고도화 필요
